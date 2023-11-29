@@ -1,0 +1,64 @@
+{
+  "proArray": [
+    {
+      "name": "선풍기",
+      "path": "./image/pro01.jpg",
+      "price": 10000,
+      "text": "무려7개의 날개로 더운여름 훠이~!"
+    },
+    {
+      "name": "빨간맛",
+      "path": "./image/pro02.jpg",
+      "price": 15000,
+      "text": "지각은 안되용ㅡㅡ^"
+    },
+    {
+      "name": "모니터",
+      "path": "./image/pro03.jpg",
+      "price": 100000,
+      "text": "모니터는...모니터지..."
+    },
+    {
+      "name": "안경",
+      "path": "./image/pro04.jpg",
+      "price": 80000,
+      "text": "지난번 예비군 갔다가 부러뜨려서 바꾼 안경"
+    },
+    {
+      "name": "구름과자",
+      "path": "./image/pro05.jpg",
+      "price": 80000,
+      "text": "필O멘O 하O브O드 1미리"
+    },
+    {
+      "name": "마우스",
+      "path": "./image/pro06.jpg",
+      "price": 40000,
+      "text": "마우스 잃어버렸더니 마음씨 좋은 선임이 물려줬던 마우스"
+    },
+    {
+      "name": "라이터",
+      "path": "./image/pro07.jpg",
+      "price": 1000,
+      "text": "구름과자 단짝친구"
+    },
+    {
+      "name": "교과서",
+      "path": "./image/pro08.jpg",
+      "price": 42000,
+      "text": "여러분 이거 잘 보고 있죠 ???"
+    },
+    {
+      "name": "갤럭시 버즈2",
+      "path": "./image/pro09.jpg",
+      "price": 100000,
+      "text": "사실 전여친이랑 커플로 맞췄던 버즈2"
+    },
+    {
+      "name": "키보드",
+      "path": "./image/pro10.jpg",
+      "price": 200000,
+      "text": "이거사면 개발잘될 줄 알았던 나"
+    }
+  ]
+}

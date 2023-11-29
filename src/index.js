@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+//App이라는 기능(컴포넌트)를 가져와서 사용하겠습니다!
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
